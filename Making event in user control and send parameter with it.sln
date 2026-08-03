@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Making event in user control and send parameter with it", "Making event in user control and send parameter with it\Making event in user control and send parameter with it.csproj", "{90B107FC-0FD7-4BE1-8395-80BCC96CD17A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90B107FC-0FD7-4BE1-8395-80BCC96CD17A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90B107FC-0FD7-4BE1-8395-80BCC96CD17A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90B107FC-0FD7-4BE1-8395-80BCC96CD17A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90B107FC-0FD7-4BE1-8395-80BCC96CD17A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91DF5109-204F-46AB-96EC-E489AFC0878D}
+	EndGlobalSection
+EndGlobal
